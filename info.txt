@@ -1,1 +1,2 @@
-nouveau premier resolution.
+nouveau conflit pour verifier le bon aboutissement
+du rebase.
