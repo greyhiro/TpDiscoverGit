@@ -1,1 +1,2 @@
-rebranchecommitNormal \n sans probleme.
+rebranchecommitNormal \n apres probleme. et reedition
+de ce fichier. Sans conflit?
